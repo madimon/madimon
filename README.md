@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello, world! 👋
+### // ✨ Eu sou a Maria!
+---------------------------------------------------------------------------------------------------------
 
-<!--
-**madimon/madimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+// 🎓 Atualmente formanda em Serviço Social/UFSC 
 
-Here are some ideas to get you started:
+// 📝 Iniciando estudos na linguagem Python objetivando migrar para a área de Ciência de Dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// 🐈 Amante dos gatinhos
+
+// 🏋️‍♀️ E da prática de exercícios
+
+-----------
+### // 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-343434?style=for-the-badge&logo=python)
+-------
+### // 📧 Contato
+[![Instagram](https://img.shields.io/badge/Instagram-343434?style=for-the-badge&logo=instagram)](https://www.instagram.com/eduardadimonn/)
+<a href = "mailto:dimonmariae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
