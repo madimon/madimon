@@ -1,19 +1,17 @@
 ## Hello, world! 👋
-### // ✨ Eu sou a Maria!
+### // ✨ I'm Maria!
 ---------------------------------------------------------------------------------------------------------
+// 🎓 Currently graduating in Social Work/UFSC
 
-// 🎓 Atualmente formanda em Serviço Social/UFSC 
+// 📝 Starting studies in the Python language
 
-// 📝 Iniciando estudos na linguagem Python objetivando migrar para a área de Ciência de Dados
+// 🔎 Data Science Enthusiast
 
-// 🐈 Amante dos gatinhos
-
-// 🏋️‍♀️ E da prática de exercícios
+// 🐈 Lover of kittens
 
 -----------
 ### // 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-343434?style=for-the-badge&logo=python)
 -------
-### // 📧 Contato
-[![Instagram](https://img.shields.io/badge/Instagram-343434?style=for-the-badge&logo=instagram)](https://www.instagram.com/eduardadimonn/)
+### // 📧 Contact
 <a href = "mailto:dimonmariae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
